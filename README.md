@@ -75,7 +75,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/teaomnmi/collaborative-editor.git cd collaborative-editor
+git clone https://github.com/teaomnmi/panndocs.git cd collaborative-editor
 ```
 
 **Installation**
